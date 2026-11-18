@@ -1,0 +1,12 @@
+# Go executable and test files
+*.exe
+*.test
+*.out
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
